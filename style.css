@@ -1,0 +1,23 @@
+html{
+    background-image: url('workspace4.jpg');
+    background-repeat: no repeat;
+    background-size: 100%;
+    color: white;
+}
+h1{
+    font-size: 50px;
+    font-style: inherit;
+}
+pre{ 
+      text-align: left;
+      font-size: 20px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+main{
+    font-size: 25px;
+    color: aqua;
+}
+address{
+    font-size: 20px;
+    text-align: center;
+}

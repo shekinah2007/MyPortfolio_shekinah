@@ -1,0 +1,16 @@
+html{
+    background-image: url('bacground.jpg');
+    color: white;
+}
+h1{
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+pre{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+section{
+    font-family: sans-serif;
+    font-size: 20px;
+}
